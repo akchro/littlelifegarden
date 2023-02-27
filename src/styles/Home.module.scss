@@ -1,0 +1,16 @@
+.taskbar {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 15%
+}
+
+.content {
+  display: grid;
+  grid-template-rows: 1fr 4fr;
+  min-height: 100vh;
+}
+
+.task-body {
+
+}
