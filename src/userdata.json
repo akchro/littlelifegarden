@@ -1,0 +1,9 @@
+{
+  "daily": [
+    {
+      "description": "do this thing",
+      "completed": false,
+      "priority": 1
+    }
+  ]
+}
